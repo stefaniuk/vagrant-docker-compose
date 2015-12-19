@@ -1,5 +1,5 @@
-vagrant-docker-compose
-======================
+vagrant-docker-php
+==================
 
 Using Vagrant
 -------------
